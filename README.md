@@ -33,7 +33,8 @@
 
 **Quick start**
 ```bash
-git clone https://github.com/hlissner/doom-emacs ~/.emacs.d
+git clone https://github.com/moonfoam/doom-emacs-moonfoam ~/.emacs.d
+# fork from https://github.com/hlissner/doom-emacs
 ~/.emacs.d/bin/doom install
 ```
 
